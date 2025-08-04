@@ -65,7 +65,7 @@ This repository demonstrates hands-on experience in software development using J
 
 ## 📬 Let’s Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/vyom-vyas-757ba732b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vyom-vyas-757ba732b/)
 - 💻 [GitHub](https://github.com/VyomVyas4765)
 
 
