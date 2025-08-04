@@ -1,6 +1,6 @@
 # 📁 SkillCraft Software Development Projects - Vyom Vyas
 
-Welcome to my Java project series, completed as a part of my **Software Development Internship at SkillCraft Technology**. This repository includes four hands-on tasks focused on software fundamentals: temperature conversion, console gaming, algorithmic problem solving, and data scraping.
+Welcome to my Java project series, completed as a part of my **Software Development Internship at SkillCraft Technology**. This repository includes four hands-on projects focused on software fundamentals: temperature conversion, random number generation, algorithmic problem solving, and data scraping.
 
 ---
 
