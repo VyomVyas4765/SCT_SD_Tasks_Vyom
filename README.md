@@ -50,19 +50,22 @@ Welcome to my Java project series, completed as a part of my **Software Developm
 
 ## 📌 Tools & Technologies
 
-- Java SE  
+- Java 
 - Scanner, Random, and standard I/O classes  
 - Recursion and backtracking  
-- Java libraries: Swing (optional), Jsoup  
+- Java libraries: Jsoup  
 
 ---
 
 ## 💡 Conclusion
 
-This series highlights my internship experience at SkillCraft Technology, where I applied core software development principles to build interactive, logic-based, and real-world applications. Each task demonstrates practical learning with a focus on clarity, utility, and performance.
+This repository demonstrates hands-on experience in software development using Java. Each task represents a distinct application of programming fundamentals—ranging from user input handling and control structures to algorithmic problem solving and real-world data extraction. Together, they highlight practical learning, logical thinking, and effective implementation developed during my internship.
 
 ---
 
 ## 📬 Let’s Connect!
 
-Feel free to explore the projects and reach out for collaboration, tech talk, or feedback.
+- 💼 [LinkedIn](www.linkedin.com/in/vyom-vyas-757ba732b)
+- 💻 [GitHub](https://github.com/VyomVyas4765)
+
+
