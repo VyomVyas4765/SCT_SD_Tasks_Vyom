@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TemperatureConverter {
+public class Task1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -62,4 +62,5 @@ public class TemperatureConverter {
         return (k - 273.15) * 9 / 5 + 32;
     }
 }
+
 
